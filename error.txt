@@ -1,0 +1,5 @@
+/home/johnblood/mysnaps/popsicle/parts/popsicle/rust/bin/cargo install -j2 --root /home/johnblood/mysnaps/popsicle/parts/popsicle/install --path /home/johnblood/mysnaps/popsicle/parts/popsicle/build
+error: no packages found with binaries or examples
+Failed to run '/home/johnblood/mysnaps/popsicle/parts/popsicle/rust/bin/cargo install -j2 --root /home/johnblood/mysnaps/popsicle/parts/popsicle/install --path /home/johnblood/mysnaps/popsicle/parts/popsicle/build' for 'popsicle': Exited with code 101.
+Verify that the part is using the correct parameters and try again.
+
