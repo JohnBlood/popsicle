@@ -3,7 +3,7 @@
 a snap for [popsicle](https://github.com/pop-os/popsicle), a multiple usb flasher
 
 
-## -- This is a work in progress and no ready for production use --
+## -- This is a work in progress and not ready for production use --
 
 ## Note:
 
